@@ -5,8 +5,8 @@ Just a boilerplate create react app that will be used for purpose of dev ops inc
 
 ## Docker
 
-To build the docker image use: docker build -t "devops-createreactapp" .
-To run the docker image use: docker run -it -p 5003:5003 devops-createreactapp:latest
+* To build the docker image use: docker build -t "devops-createreactapp" .
+* To run the docker image use: docker run -it -p 5003:5003 devops-createreactapp:latest
 
 ## AWS Amplify 
 
